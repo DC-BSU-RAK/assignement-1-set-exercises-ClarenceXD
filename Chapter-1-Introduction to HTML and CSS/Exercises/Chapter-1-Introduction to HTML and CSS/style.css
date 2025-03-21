@@ -1,0 +1,11 @@
+/*Class used to display normal body text*/
+.text-body{
+    font-size: 1.2rem;
+    line-height: 25px;
+    font-weight: normal;
+}
+
+/*Draws Seperation Line*/
+.line{
+    border-style: double; color: rgb(0, 0, 0);
+} 
