@@ -1,0 +1,59 @@
+/*Full page*/
+body{
+    background-color: rgb(179, 179, 179);
+    text-align: left;
+    }
+
+.rawcode{
+    background-color: rgb(159, 162, 182);
+    margin-left: 50px;
+    margin-right: 700px;
+    padding-left: 10px;
+    border:3px black , double;
+}
+
+.output{
+    background-color: rgb(208, 208, 208);
+    margin-left: 50px;
+    margin-right: 700px;
+    padding-left: 10px;
+    border:3px black , double;
+    margin-top: 5px;
+}
+
+
+/*Highest Heading*/
+h1,h2{
+    color:rgb(0, 0, 0); margin-left: 0px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline; text-decoration-color: rgb(0, 0, 0);
+    font-size: 1.9rem;
+    }
+
+/*Sub Heading*/
+h3{
+    font-size: 1.7rem;
+    text-decoration: underline;
+}
+
+/*Subber Heading :D*/
+h4,h5,h6{
+    font-size: 1.2rem;
+    
+}
+
+/*Draws Seperation Line*/
+.line{
+    border-style: double; color: rgb(0, 0, 0);
+} 
+
+/*Normal Text*/
+pre,label,p{
+    font-size: 0.95rem;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    font-family: cursive;
+}
+code{
+    font-family: cursive;
+}
