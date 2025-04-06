@@ -1,0 +1,27 @@
+body{
+background-color: rgb(255, 255, 255);
+
+}
+
+/*Highest Heading*/
+h1,h2{
+    color:rgb(0, 0, 0); margin-left: 0px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline; text-decoration-color: rgb(0, 0, 0);
+    font-size: 1.9rem;
+    }
+
+.imageratio{
+    aspect-ratio: 1/1;
+}
+
+/*Normal Text*/
+pre,label,p,li{
+    font-size: 0.95rem;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    font-family: cursive;
+}
+img{
+    display: block;
+}
