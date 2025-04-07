@@ -1,8 +1,8 @@
 body{
-background-color: rgb(255, 255, 255);
-
-}
-
+    background-color: rgb(255, 255, 255);
+    
+    }
+    
 /*Highest Heading*/
 h1,h2{
     color:rgb(0, 0, 0); margin-left: 0px; 
@@ -13,6 +13,13 @@ h1,h2{
 
 .imageratio{
     aspect-ratio: 1/1;
+}
+
+.guy{
+    display: inline;
+}
+.guy2{
+    display: block;
 }
 
 /*Normal Text*/
