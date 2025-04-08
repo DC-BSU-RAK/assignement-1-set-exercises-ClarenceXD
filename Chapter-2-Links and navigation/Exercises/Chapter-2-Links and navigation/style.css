@@ -1,0 +1,61 @@
+/*Full page*/
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    }
+.navbar{
+    display: inline;
+    font-size: 1.7rem;
+    margin-right: 20px;
+}
+.bg-navbar{
+    background-color: rgb(122, 122, 122);
+    margin-left: 20px;
+    margin-right: 700px;
+    padding: 9px;
+}
+button{
+    background-color:rgb(255, 214, 214); color: rgb(0, 0, 0);
+}
+.emoji{
+    font-size: 0.8rem;
+    display: inline;
+}
+summary{
+    background-color: red;
+    display: inline;
+    border: 3px;
+    border-style: dotted;
+    margin-left: 20px;
+}
+/*To stay on the same line*/
+.padleft{
+    padding-left:10px ;
+}
+
+/*Highest Heading*/
+h1,h2{
+    color:rgb(0, 0, 0); margin-left: 0px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline; text-decoration-color: rgb(0, 0, 0);
+    font-size: 1.9rem;
+    }
+
+/*Sub Heading*/
+h3{
+    font-size: 1.7rem;
+}
+
+/*Subber Heading :D*/
+h4,h5,h6{
+    font-size: 1.2rem;
+    
+}
+.Bg-background{
+    background-color: rgb(215, 215, 215);
+    margin-left: 20px;
+    margin-right: 400px;
+    padding-left: 7.5px;
+    border:3px black , solid;
+    margin-top: 15px;
+}
