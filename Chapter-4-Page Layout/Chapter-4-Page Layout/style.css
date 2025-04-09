@@ -1,0 +1,96 @@
+body{
+    text-align: left;
+    background-color: rgb(23, 7, 43);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    text-decoration:underline;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    text-decoration:underline;
+    text-align: left;
+    font-size: 35px;
+}
+
+a{
+    text-align: center;
+    font-size: 30px;
+    display: inline;
+    padding-left: 30px;
+    color: white;
+    text-decoration: solid;
+}
+
+.Top_Tab{
+    background-color: rgb(23, 7, 43); 
+    text-align: center; 
+    color: rgb(255, 255, 255);
+    padding-bottom: -10px;
+    font-family: Tahoma;
+}
+
+.mainimg{
+    padding-top: 5px;
+    padding-left: 30px;
+    margin-bottom: 2px;
+}
+
+.text{
+    padding-left: 30px;
+}
+
+pre{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{ 
+    display:flex;
+}
+.sub1{
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 25px;
+    padding-bottom: 10px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-right: -490px;
+    padding-right: 490px;
+}
+
+.sub2{
+    width: 45%;
+    float: right ;
+    margin-bottom: 18px;
+    margin-top: 40px;
+    padding-right: 0px;
+    padding-left: 20px;
+    margin-right: 0px;
+    background-color: rgb(23, 45, 103);
+    text-align: left;
+    color: white;
+}
+
+li{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.images{
+    display: inline;
+    padding-left: 11px;
+}
+footer{
+    background-color: rgb(140, 21, 233); 
+    text-align: center; 
+    font-size: 20px; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    font-family: Tahoma;
+    color: white;
+}
+
