@@ -39,3 +39,10 @@ body {
     margin: 100px auto;
     width: max-content;
   }
+
+p{
+    text-align:left ;
+    display: inline;
+    position: absolute;
+    transform: translate(-45px, -15px);
+}
