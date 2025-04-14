@@ -67,3 +67,8 @@ pre,label,p{
 em{
     color: rgb(56, 56, 56);
 }
+
+.headlink{
+    font-size: 20px;
+    padding-left: 20px;
+}
