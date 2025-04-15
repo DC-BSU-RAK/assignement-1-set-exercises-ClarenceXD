@@ -1,0 +1,20 @@
+body{
+
+}
+.videobody{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+video{
+    max-width: 639px;
+    max-height: 359px;
+}
+p{
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Centers text horizontally */
+}
