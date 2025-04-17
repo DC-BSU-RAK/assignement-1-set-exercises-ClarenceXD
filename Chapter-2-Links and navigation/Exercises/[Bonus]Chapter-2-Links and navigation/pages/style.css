@@ -7,12 +7,29 @@ body{
     display: inline;
     font-size: 1.7rem;
     margin-right: 20px;
+    padding: 10px;
+
+}
+.navtext{
+    font-size: 2rem;
+    padding: 5px;
+    padding-right: 30px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
 }
 .bg-navbar{
+    display: flex;
     background-color: rgb(122, 122, 122);
-    margin-left: 20px;
-    margin-right: 700px;
     padding: 9px;
+    align-items: center;
+    justify-content: left;
+    flex-direction: row;
+    border-style:double;
+    border-radius: 20px;
 }
 button{
     background-color:rgb(255, 214, 214); color: rgb(0, 0, 0);
